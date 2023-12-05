@@ -1,0 +1,21 @@
+# Coffee-shop-project
+In this project I looked at the relations between employees, locations, shops and suppliers using the functions below.
+- Select 
+- Where 
+- Order By
+- Group By
+- Null and Not Null 
+- Aliasing
+- Aggregate Functions
+- Converting Data Types
+- Like
+- And 
+- Or 
+- Between
+- In and Not In
+- Limit or offset and Fetch
+- Distinct
+- and joins
+- Concat
+- Upper
+- Lower
